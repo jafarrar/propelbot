@@ -23,7 +23,18 @@
   "dependencies": {
     "hubot": ">= 2.6.0 < 3.0.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
-    "hubot-slack": "~2.0.4"
+    "hubot-slack": "~2.0.4",
+    "cheerio": "",
+    "githubot": "",
+    "htmlparser":"",
+    "jsdom": "",
+    "redis": "",
+    "scraper": "",
+    "soupselect": "",
+    "underscore": ">= 0.1.2",
+    "underscore.string": "2.3.0",
+    "xml2js": "",
+    "validator" : ""
   },
   "engines": {
     "node": ">= 0.8.x",
